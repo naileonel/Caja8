@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Caja 8</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="main.css">
+	</head>
+
+	<body>
+	<div></div>
+	<div class="com">
+		<div class="nex"></div>
+		<div class="nex"></div>
+		<div class="nex"></div>
+	</div>
+		<div class="nex"></div>
+		<div class="nex"></div>
+	<div></div>
+	</body>
+</html>
